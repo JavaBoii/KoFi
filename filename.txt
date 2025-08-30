@@ -1,0 +1,3 @@
+h-kneisler,Hermann,Kneisler,STUDENT,0.0;
+i-kneisler,Ioanna,Kneisler,DEBIT,600.8;
+i-kneisler,Ioanna,Kneisler,DEBIT,6022220.8;
